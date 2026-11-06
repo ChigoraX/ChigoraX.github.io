@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "project": "project-13881298",
+  "generated_at": "2026-09-15 20:08:26",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/article/chengshi-yejingji-guancha",
+    "/article/duanshipin-daihuo-xianxiang-fenxi",
+    "/article/gongzuo-shenghuo-jiezou-taolun",
+    "/article/huati-ruhe-chongshang-resou",
+    "/article/huodong-hongtan-biaoxian-pandian",
+    "/article/remen-shangpin-zouhong-yuanyin",
+    "/article/xinju-shoubo-koubei-fenxi",
+    "/article/yiren-hezuo-xiangmu-gongbu",
+    "/article/yiren-xingcheng-jizhong-gongkai",
+    "/article/yizhou-redian-pandian-zonglan",
+    "/article/yule-zhoubao-mingchangmian-huigu",
+    "/article/zongyi-mingchangmian-heji",
+    "/category/mingxing-dongtai",
+    "/category/shehui-redian",
+    "/category/shenghuo-huati",
+    "/category/wangluo-reyi",
+    "/category/yingshi-zongyi",
+    "/category/yule-bagua"
+  ],
+  "route_count": 20,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
